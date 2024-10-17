@@ -1,4 +1,6 @@
 👋 Hi, I’m @Megaracer7
+🎓 I’m a Master's student:
+Pursuing a Master’s in Electronic Business, focusing on Web Development and Backend Technologies.
 👀 I’m interested in:
 Web development
 Backend technologies
