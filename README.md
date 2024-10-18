@@ -1,4 +1,4 @@
-👋 Hi, I’m @Megaracer7
+👋 Hi, I’m @CodrutButucaru
 🎓 I’m a Master's student:
 Pursuing a Master’s in Electronic Business, focusing on Web Development and Backend Technologies.
 👀 I’m interested in:
