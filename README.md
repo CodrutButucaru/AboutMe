@@ -20,4 +20,4 @@ Projects involving backend development using Java or PHP
 Open-source initiatives related to e-commerce, ticketing, or content management systems
 📫 How to reach me:
 Email: codrutbutucaru7@gmail.com / codrut.butucaru@stud.ubbcluj.ro
-GitHub Profile: @Megaracer7
+GitHub Profile: @CodrutButucaru
